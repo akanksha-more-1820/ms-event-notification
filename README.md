@@ -1,4 +1,4 @@
-# Event Notification System (Multi-Module)
+# Event Notification System
 
 Modules:
 - `api-ext` – DTOs & Service interface
